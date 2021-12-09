@@ -28,15 +28,17 @@ will be rendered as real `<a href="">` links:
 
 ## Known issues
 
-* ampersands (`&`s) in query strings are not currently rendered properly (#1)
+* ampersands (`&`s) in query strings are not currently rendered properly
+  ([#1][1])
 
 
 ## Credits
 
-Based on a fork of Simon Williamson's [dataset-json-html][1] plugin at
-revision [af73575][2] (≈1.0.1).
+Based on a fork of Simon Williamson's [dataset-json-html][2] plugin at
+revision [af73575][3] (≈1.0.1).
 
 
 [0]: https://docs.datasette.io/en/stable/plugin_hooks.html#render-cell-value-column-table-database-datasette
+[1]: https://github.com/ernstki/datasette-linkify/issues/1
 [1]: https://github.com/simonw/datasette-json-html
-[2]: https://github.com/simonw/datasette-json-html/commit/af735757fc50d4fd86118780f700535b810ff22c
+[3]: https://github.com/simonw/datasette-json-html/commit/af735757fc50d4fd86118780f700535b810ff22c
