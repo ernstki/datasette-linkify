@@ -2,7 +2,7 @@
 
 <!--[![PyPI](https://img.shields.io/pypi/v/datasette-linkify.svg)](https://pypi.org/project/datasette-linkify)-->
 <!--[![Changelog](https://img.shields.io/github/v/release/ernstki/datasette-linkify?include_prereleases&label=changelog)](https://github.com/ernstki/datasette-linkify/releases)-->
-<!--[![Tests](https://github.com/ernstki/datasette-linkify/workflows/Test/badge.svg)](https://github.com/ernstki/datasette-linkify/actions?query=workflow%3ATest)-->
+[![Tests](https://github.com/ernstki/datasette-linkify/workflows/Test/badge.svg)](https://github.com/ernstki/datasette-linkify/actions?query=workflow%3ATest)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/ernstki/datasette-linkify/blob/main/LICENSE)
 
 Datasette plugin for rendering links as links, using the
