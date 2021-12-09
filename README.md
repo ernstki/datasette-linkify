@@ -17,13 +17,18 @@ interface.
 
 Columns containing links such as:
 
-    https://simonwillison.net
-    mailto:swillison@gmail.com
+    http://example.com
+    mailto:somebody@example.com
 
 will be rendered as real `<a href="">` links:
 
-    <a href="https://simonwillison.net">Simon Willison</a>
-    <a href="mailto:swillison@gmail.com">Email Simon</a>
+    <a href="http://example.com">http://example.com</a>
+    <a href="mailto:somebody@example.com">somebody@example.com</a>
+
+
+## Known issues
+
+* ampersands (`&`s) in query strings are not currently rendered properly (#1)
 
 
 ## Credits
