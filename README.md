@@ -29,8 +29,9 @@ will be rendered as real `<a href="">` links:
 ## Credits
 
 Based on a fork of Simon Williamson's [dataset-json-html][1] plugin at
-revision af73575 (v. 1.0.1).
+revision [af73575][2] (≈1.0.1).
 
 
 [0]: https://docs.datasette.io/en/stable/plugin_hooks.html#render-cell-value-column-table-database-datasette
 [1]: https://github.com/simonw/datasette-json-html
+[2]: https://github.com/simonw/datasette-json-html/commit/af735757fc50d4fd86118780f700535b810ff22c
